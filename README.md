@@ -1,1 +1,1 @@
-# soda1-open-source
+# SODA1 Open source rocket project
