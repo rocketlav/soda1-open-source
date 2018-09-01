@@ -35,6 +35,6 @@ Project documentation are placed in four folders:
 
 ***
 
-If you have any questions about our project or you have a offer for us, please, write to us on email rocketlav.team@gmail.com.
+If you have any questions about our project or you have an offer for us, please, write to us on email rocketlav.team@gmail.com.
 
 
