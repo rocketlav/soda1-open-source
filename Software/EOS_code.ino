@@ -16,7 +16,7 @@ unsigned long BufferForBMP = 0;
 unsigned long DelayForSD = 10000; // Время сохранения данных на сд
 unsigned long BufferForSD = 0;
 
-float BMSKoef = 0.01346; //Voltage
+float BMSKoef = 0.01346; //Коэффициент для определения напряжение на аккумуляторе, для вашего аккума нужно рассчитать самостоятельно
 
 unsigned long StartTime = 0;
 unsigned long SaveTimer = 5500; // Время раскрытия после отрыва
