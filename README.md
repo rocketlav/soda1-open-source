@@ -20,6 +20,19 @@ SODA1 открытый проект одноступенчатой экспер�
 
 или используйте сообщения нашей группы https://vk.com/scber_ssau.
 
+#English version
+SODA1 is open source project of experimental single stage rocket which is designed to deliver CanSat during Russian CanSat competition 2018. This project was designed by members of student design association "RocketLAV", which won the first prize of this competition. Our team collect all documentation here which we developed and used during rocket's creation. We want to share our knowledge and experience for those who want and interested in it, we hope that you can use our documentation to get learned in software, electronics and mechanical engineering. 
 
+***
+
+Project documentation are placed in four folders:
+1. Main PDF file which describes project in detail is placed in Documentation folder, please, be attention, this file fully in Russian;
+2. PCB files of electrical board and its principal scheme are placed in Electrical folder; 
+3. Mechanical folder contains drawings and 3D model of rocket in stl format and Kompas v17;
+4. Software folders contains a source code and algorithms for electrical board of rocket.
+
+***
+
+If you have any questions about our project or you have a offer for us, please, write to us on email rocketlav.team@gmail.com.
 
 
