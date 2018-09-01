@@ -5,7 +5,7 @@
 /// Контактные пины, не трогать, в плате они фиксированные
 SoftwareSerial GPS(9, 10); //Инициализация GPS по программному сериалу RX, TX
 Adafruit_BMP280 BMP;   //Инициализация барометра
-const int chipSelect = 8;
+const int chipSelect = 8; //Тоже фиксированный пин на плате
 File dataFile;
 
 // ПЕРЕМЕННЫЕ
