@@ -37,7 +37,7 @@ Project documentation are placed in four folders:
 
 ***
 
-Mostly this project in russian, but if you need help to translate don't shy to contact us.
+Mostly this project in russian, but if you need help to translate, fell free to contact us.
 If you have any questions about our project or you have an offer for us, please, write to us on email rocketlav.team@gmail.com.
 
 
